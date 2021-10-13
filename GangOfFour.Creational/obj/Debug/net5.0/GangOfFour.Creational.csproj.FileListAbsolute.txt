@@ -1,0 +1,11 @@
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\bin\Debug\net5.0\GangOfFour.Creational.deps.json
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\bin\Debug\net5.0\GangOfFour.Creational.dll
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\bin\Debug\net5.0\ref\GangOfFour.Creational.dll
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\bin\Debug\net5.0\GangOfFour.Creational.pdb
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\GangOfFour.Creational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\GangOfFour.Creational.AssemblyInfoInputs.cache
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\GangOfFour.Creational.AssemblyInfo.cs
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\GangOfFour.Creational.csproj.CoreCompileInputs.cache
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\GangOfFour.Creational.dll
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\ref\GangOfFour.Creational.dll
+C:\Users\EHSAN\source\Repos\GoF\GangOfFour.Creational\obj\Debug\net5.0\GangOfFour.Creational.pdb

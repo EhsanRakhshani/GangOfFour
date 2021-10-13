@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GangOfFour.View/1.0.0": {
+        "dependencies": {
+          "GangOfFour.Creational": "1.0.0"
+        },
+        "runtime": {
+          "GangOfFour.View.dll": {}
+        }
+      },
+      "GangOfFour.Creational/1.0.0": {
+        "runtime": {
+          "GangOfFour.Creational.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GangOfFour.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GangOfFour.Creational/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
